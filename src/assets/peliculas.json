@@ -1,0 +1,152 @@
+[
+  {
+    "titulo": "Avengers: Endgame",
+    "genero": "Acción",
+    "lanzamiento": 2019
+  },
+  {
+    "titulo": "La La Land",
+    "genero": "Comedia",
+    "lanzamiento": 2016
+  },
+  {
+    "titulo": "Parasite",
+    "genero": "Drama",
+    "lanzamiento": 2019
+  },
+  {
+    "titulo": "Black Panther",
+    "genero": "Acción",
+    "lanzamiento": 2018
+  },
+  {
+    "titulo": "Deadpool",
+    "genero": "Comedia",
+    "lanzamiento": 2016
+  },
+  {
+    "titulo": "Joker",
+    "genero": "Drama",
+    "lanzamiento": 2019
+  },
+  {
+    "titulo": "Inception",
+    "genero": "Acción",
+    "lanzamiento": 2010
+  },
+  {
+    "titulo": "The Hangover",
+    "genero": "Comedia",
+    "lanzamiento": 2009
+  },
+  {
+    "titulo": "The Social Network",
+    "genero": "Drama",
+    "lanzamiento": 2010
+  },
+  {
+    "titulo": "The Dark Knight",
+    "genero": "Acción",
+    "lanzamiento": 2008
+  },
+  {
+    "titulo": "Superbad",
+    "genero": "Comedia",
+    "lanzamiento": 2007
+  },
+  {
+    "titulo": "No Country for Old Men",
+    "genero": "Drama",
+    "lanzamiento": 2007
+  },
+  {
+    "titulo": "Mad Max: Fury Road",
+    "genero": "Acción",
+    "lanzamiento": 2015
+  },
+  {
+    "titulo": "Bridesmaids",
+    "genero": "Comedia",
+    "lanzamiento": 2011
+  },
+  {
+    "titulo": "Birdman",
+    "genero": "Drama",
+    "lanzamiento": 2014
+  },
+  {
+    "titulo": "The Avengers",
+    "genero": "Acción",
+    "lanzamiento": 2012
+  },
+  {
+    "titulo": "Anchorman: The Legend of Ron Burgundy",
+    "genero": "Comedia",
+    "lanzamiento": 2004
+  },
+  {
+    "titulo": "La La Land",
+    "genero": "Drama",
+    "lanzamiento": 2016
+  },
+  {
+    "titulo": "Iron Man",
+    "genero": "Acción",
+    "lanzamiento": 2008
+  },
+  {
+    "titulo": "Super Troopers",
+    "genero": "Comedia",
+    "lanzamiento": 2001
+  },
+  {
+    "titulo": "Silver Linings Playbook",
+    "genero": "Drama",
+    "lanzamiento": 2012
+  },
+  {
+    "titulo": "The Lord of the Rings: The Fellowship of the Ring",
+    "genero": "Acción",
+    "lanzamiento": 2001
+  },
+  {
+    "titulo": "Step Brothers",
+    "genero": "Comedia",
+    "lanzamiento": 2008
+  },
+  {
+    "titulo": "Whiplash",
+    "genero": "Drama",
+    "lanzamiento": 2014
+  },
+  {
+    "titulo": "The Dark Knight Rises",
+    "genero": "Acción",
+    "lanzamiento": 2012
+  },
+  {
+    "titulo": "Hot Fuzz",
+    "genero": "Comedia",
+    "lanzamiento": 2007
+  },
+  {
+    "titulo": "Her",
+    "genero": "Drama",
+    "lanzamiento": 2013
+  },
+  {
+    "titulo": "Guardians of the Galaxy",
+    "genero": "Acción",
+    "lanzamiento": 2014
+  },
+  {
+    "titulo": "The Hangover Part II",
+    "genero": "Comedia",
+    "lanzamiento": 2011
+  },
+  {
+    "titulo": "12 Years a Slave",
+    "genero": "Drama",
+    "lanzamiento": 2013
+  }
+]
